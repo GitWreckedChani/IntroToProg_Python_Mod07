@@ -102,7 +102,8 @@ The Exception class can catch any type of error, but you can catch specific erro
 
 ## Summary
 To summarize, pickling and unpickling data to a file is different from packing and unpacking it in that pickling saves it as
-a bytestream. Over the course of a particularly large code, this could mean using significantly less memory to run. 
+a bytestream. Over the course of a particularly large code, this could mean using significantly less memory to run.
+
 Try/except is useful in break-proofing your code and can even be used to make code more user friendly.
 
 #### Citations: 
