@@ -107,9 +107,9 @@ a bytestream. Over the course of a particularly large code, this could mean usin
 Try/except is useful in break-proofing your code and can even be used to make code more user friendly.
 
 #### Citations: 
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf]
 
-https://www.programiz.com/python-programming/exception-handling
+(https://www.programiz.com/python-programming/exception-handling)
 
 https://realpython.com/python-exceptions/
 
