@@ -107,16 +107,16 @@ a bytestream. Over the course of a particularly large code, this could mean usin
 Try/except is useful in break-proofing your code and can even be used to make code more user friendly.
 
 #### Citations: 
-[https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf]
+[guides.github.com](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-(https://www.programiz.com/python-programming/exception-handling)
+[programiz.com/python-programming](https://www.programiz.com/python-programming/exception-handling)
 
-https://realpython.com/python-exceptions/
+[realpython.com](https://realpython.com/python-exceptions/)
 
-https://www.geeksforgeeks.org/understanding-python-pickling-example/
+[geeksforgeeks.org/understanding-python-pickling-examples](https://www.geeksforgeeks.org/understanding-python-pickling-example/)
 
-https://realpython.com/python-pickle-module/
+[realpython.com/python-pickle-module](https://realpython.com/python-pickle-module/)
 
-https://pythonprogramming.net/python-pickle-module-save-objects-serialization/
+[pythonprogramming.net/python-pickling-module](https://pythonprogramming.net/python-pickle-module-save-objects-serialization/)
 
-https://pythonbasics.org/try-except/
+[pythonbasics.org/try-except](https://pythonbasics.org/try-except/)
